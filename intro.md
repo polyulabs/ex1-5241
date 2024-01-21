@@ -8,7 +8,7 @@
 This is a sample student.
 
 ## [Add your name here]
-[Introduce yourself]
+[Introduce yourself here]
 
 
 
