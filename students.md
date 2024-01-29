@@ -121,6 +121,13 @@ I am Phoebe
 
 [My Github page](https://github.com/polyulabs/starterv2-23000046g-phoebe-intro)
 
+## [CAI Jinbin]
+I am CAI Jinbin.
+
+[My Github account](https://github.com/aIeXCai)/)
+
+[My Github page](https://github.com/aIeXCai/ex1-5241)
+
 
 === Do not modify the content above===
 
