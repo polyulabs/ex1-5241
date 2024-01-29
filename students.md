@@ -144,6 +144,16 @@ Hi! I am George Lam.
 
 [My Github page](https://polyulabs.github.io/starterv2-LAM-WanKin/)
 
+## Eric Poon
+Hi, I am Eric.
+
+[My Github account](https://github.com/23053384g)
+
+[My Github page](https://github.com/polyulabs/starterv2-230533846g)
+
+
+=== Do not modify the content above===
+
 
 [My Github page](https://polyulabs.github.io/starterv2-anthony-tsui/)
 
