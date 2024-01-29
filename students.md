@@ -124,7 +124,7 @@ I am Phoebe
 
 === Do not modify the content above===
 ## Chung Wing Tung
-I am Rainie.
+Hello. I am Rainie.
 
 [My Github account](https://github.com/rainietung)
 
