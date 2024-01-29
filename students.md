@@ -123,7 +123,7 @@ I am Phoebe
 
 ## Guo Qianxiang
 I am Guo Qianxiang.
-[My Github account]([http://www.github.com/put-your-github-username-here](https://github.com/GuoQianxiang))
+[My Github account](https://github.com/GuoQianxiang)
 
 [My Github page](https://guoqianxiang.github.io/)
 
