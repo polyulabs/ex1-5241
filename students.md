@@ -218,3 +218,9 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## WANG Xinnan
+Hi! I am WANG Xinnan.
+
+[My Github account](https://github.com/Nomi-nn)
+
+[My Github page](https://polyulabs.github.io/starterv2-Nomi-nn/)
