@@ -154,3 +154,14 @@ Hi! I am George Lam.
 
 
 === Do not modify the content above===
+
+## Wang Zeyu
+I am Wang Zeyu, my student ID is 23068646G.
+
+[My Github account](https://github.com/ZergWang)
+
+[My Github page](https://polyulabs.github.io/starterv2-ZergWang/)
+
+<br/>
+
+=== Do not modify the content above===
