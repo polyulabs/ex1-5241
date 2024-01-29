@@ -129,6 +129,6 @@ Hi, I'm Alan.
 
 [My Github account](https://github.com/alanlam159357/)
 
-[My Github page](https://polyulabs.github.io/starterv2-alanlam159357/)
+[My Github page](https://polyulabs.github.io/alanlam159357/)
 
 === Do not modify the content above===
