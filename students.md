@@ -1,9 +1,9 @@
 === Do not modify the content below ===
 
-## [Add your name here]
-[Briefly introduce yourself]
+## [This is Kenny Chan]
+[Hi Kenny haha]
 
-[My Github account](http://www.github.com/put-your-github-username-here/)
+[My Github account](https://github.com/23008217g)
 
 [Include the link of you Github page here using the syntax shown above]
 
@@ -197,8 +197,9 @@ Hi! I am George Lam.
 
 [My Github page](https://polyulabs.github.io/starterv2-LAM-WanKin/)
 
-=== Do not modify the content above===
+
 [My Github page](https://polyulabs.github.io/starterv2-anthony-tsui/)
+
 
 === Do not modify the content above===
 
