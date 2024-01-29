@@ -18,6 +18,13 @@ Hellooooooo I'm Delphine 𖠌
 
 === Do not modify the content above===
 
+## Onus Wong
+Bello!! Here is Onus. Nothing interesting in my Github page. Go check Delphine's mainpage. Haha.
+
+[My Github account](https://github.com/onuswph)
+
+=== Do not modify the content above===
+
 ## Wong Ho Wai
 I am Wong Ho Wai.
 
