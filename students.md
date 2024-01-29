@@ -124,3 +124,12 @@ I am Phoebe
 
 === Do not modify the content above===
 
+## YAN Minrui
+Hi, I'm YAN Minrui
+
+[My Github account](https://github.com/Alainyan1)
+
+[My Github page](https://polyulabs.github.io/starterv2-Alainyan1/index.md)
+
+=== Do not modify the content above===
+
