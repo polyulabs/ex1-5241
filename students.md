@@ -160,6 +160,15 @@ I am Bowen  Xiao
 
 === Do not modify the content above===
 
+## Chung Wing Tung
+Hello. I am Rainie.
+
+[My Github account](https://github.com/rainietung)
+
+[My Github page](https://github.com/polyulabs/starterv2-rainietung)
+
+=== Do not modify the content above===
+=======
 
 
 ## Lam Wan Kin
@@ -180,3 +189,4 @@ Hello!
 [My Github account](http://www.github.com/oiuytrew/)
 
 [My Github page](https://polyulabs.github.io/starterv2-oiuytrew/)
+
