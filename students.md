@@ -153,12 +153,24 @@ I am JIN Zhendong.
 === Do not modify the content above===
 
 
+
+## Zhu Yibo
+I'm Zhu Yibo.
+
+[My Github account](http://www.github.com/zyboi/)
+
+[My Github page](https://polyulabs.github.io/starterv2-zyboi/)
+
+=== Do not modify the content above===
+
 ## Bowen Xiao
 I am Bowen  Xiao
 
 [My Github account](https://github.com/Cathyyy0728)
 
 [My Github page](https://polyulabs.github.io/starterv2-Cathyyy0728/)
+
+=== Do not modify the content above===
 
 ## Ng Hon Yan
 I am Xavier.
@@ -167,6 +179,7 @@ I am Xavier.
 
 
 [My Github page](https://github.com/polyulabs/starterv2-xaviernhy)
+
 
 === Do not modify the content above===
 
