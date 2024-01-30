@@ -218,3 +218,11 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## Linbo Qin
+I am Linbo Qin!
+
+[My Github account](https://github.com/Kilingbot)
+
+[My Github page](https://polyulabs.github.io/starterv2-Kilingbot/)
+
+
