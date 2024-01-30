@@ -218,3 +218,9 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## Alexa Cheng
+Hi i'm Alexa.
+
+[My Github account](https://github.com/Alexachenggg)
+[My Github Page](https://polyulabs.github.io/starterv2-Alexachenggg/)
+
