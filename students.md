@@ -123,13 +123,13 @@ I am Phoebe
 
 
 === Do not modify the content above===
-=== Do not modify the content below ===
 
 ## Ricky tang
 Greeting. Ricky here.
 
 [My Github account](http://www.github.com/22014006g/)
-[My Github page](https://github.com/22014006g/22014006g/)
+
+[My Github page](https://polyulabs.github.io/starterv2-22014006g/)
 
 === Do not modify the content above===
 
