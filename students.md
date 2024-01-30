@@ -217,4 +217,9 @@ Hi, I am Ryan.
 
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
+## CAI Jinbin
+Hi everyone! I am Alex.
 
+[My Github account](https://github.com/aIeXCai)
+
+[My Github Page](https://github.com/aIeXCai?tab=projects)
