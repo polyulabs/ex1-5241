@@ -152,7 +152,7 @@ I am JIN Zhendong.
 [My Github page](https://polyulabs.github.io/starterv2-Andy-King2/)
 === Do not modify the content above===
 
-
+=======
 ## Bowen Xiao
 I am Bowen  Xiao
 
@@ -217,4 +217,13 @@ Hi, I am Ryan.
 
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
+=== Do not modify the content above===
 
+## Joey Pang
+I am Joey
+
+[My Github account](http://www.github.com/jiuisntbanana)
+
+[My Github Page](https://github.com/polyulabs/starterv2-jiuisntbanana)
+
+=== Do not modify the content above===
