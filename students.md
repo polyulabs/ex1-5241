@@ -218,3 +218,12 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## HUO Boyan
+Hi, I am HUO Boyan
+
+[My Github account](https://github.com/HuoBoyan1999)
+
+[My Github Page](https://polyulabs.github.io/starterv2-HuoBoyan1999/)
+=== Do not modify the content above===
+
+
