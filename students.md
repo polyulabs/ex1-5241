@@ -218,3 +218,9 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## Stan Li
+Hi, I am Stan.
+
+[My Github account](https://github.com/stanlipohong)
+
+[My Github Page](https://polyulabs.github.io/starterv2-stanlipohong/)
