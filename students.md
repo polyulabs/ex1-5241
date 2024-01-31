@@ -218,3 +218,10 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## Ng Chun Yin
+Hi, I am Edwin. 
+
+[My Github account](https://github.com/chunyinng078)
+
+[My Github Page](https://polyulabs.github.io/starterv2-chunyinng078/)
+
