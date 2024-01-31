@@ -217,4 +217,13 @@ Hi, I am Ryan.
 
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
+=== Do not modify the content above===
 
+## Kelvin Kan
+I am Kelvin Kan.
+
+[My Github account](https://github.com/mrwhkan)
+
+[My Github page](https://polyulabs.github.io/starterv2-mrwhkan/)
+
+=== Do not modify the content above===
