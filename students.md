@@ -153,6 +153,16 @@ I am JIN Zhendong.
 === Do not modify the content above===
 
 
+## Yin LUI
+Hello This is Yin.
+
+[My Github account](http://www.github.com/lpyin)
+
+[My Github account](https://polyulabs.github.io/starterv2-lpyin/)
+
+=== Do not modify the content above===
+
+
 ## Bowen Xiao
 I am Bowen  Xiao
 
@@ -216,5 +226,6 @@ Hi, I am Ryan.
 [My Github account](https://github.com/mantogasrsrwyathrblue)
 
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
+
 
 
