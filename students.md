@@ -124,3 +124,12 @@ I am Phoebe
 
 === Do not modify the content above===
 
+## Alex Lam
+I am Alex Lam
+
+[My Github account](https://github.com/AlexL8020)
+
+[My Github page](https://github.com/AlexL8020/ex1-5241)
+
+=== Do not modify the content above===
+
