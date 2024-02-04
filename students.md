@@ -152,6 +152,16 @@ I am JIN Zhendong.
 [My Github page](https://polyulabs.github.io/starterv2-Andy-King2/)
 === Do not modify the content above===
 
+## Alex Lam
+I am Alex Lam
+
+[My Github account](https://github.com/AlexL8020)
+
+[My Github page](https://github.com/AlexL8020/ex1-5241)
+
+=== Do not modify the content above===
+
+=======
 
 ## Bowen Xiao
 I am Bowen  Xiao
