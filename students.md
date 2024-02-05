@@ -218,3 +218,8 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## [Xinyu WANG]
+Hello! I am Nino Wang.
+
+[My Github account](https://github.com/ninowangpolyu)
+[My Github Page](https://polyulabs.github.io/starterv2-ninowangpolyu/)
