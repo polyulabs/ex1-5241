@@ -218,3 +218,9 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## Vincent Lee
+Hi I am Vincent Lee
+
+[My Github account](https://github.com/Vinnagement)
+
+[My Github Page](https://polyulabs.github.io/starterv2-Vinnagement/)
