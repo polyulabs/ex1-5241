@@ -218,3 +218,9 @@ Hi, I am Ryan.
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
 
+## WANG Shixuan
+Hi, I am Shixuan. 
+
+[My Github account](https://github.com/Buitender)
+
+[My Github Page](https://polyulabs.github.io/starterv2-Buitender/)
