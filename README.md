@@ -1,7 +1,12 @@
-# Collaborative Editing in Github
-In this exercise, we will learn how to collaborate edit a file in Github. You should first fork this repository to your own account. Then, edit the file `students.md` and add your name and introduction below the template. Finally, create a pull request to submit your work for review. The detailed instruction is provided below.
+## Create your GitHub Page
+Visit the page below and follow instructions to create your own Github Page.
+[instructions](https://polyurichard.github.io/lectures/Labs/Github-Page.html)
 
-# Instructions
+## Collaborative Editing in Github
+In this task, we will learn how to collaborately edit a file in Github. 
+
+You should first fork this repository to your own account. Then, edit the file `students.md` and add your name and introduction below the template. Finally, create a pull request to submit your work for review. The detailed instruction is provided below.
+
 1. Fork this repository to your own account. 
     - Click  the `Fork` button on the top right corner of this page. 
     - After forking, you should see a new repository in your account with the same name as this repository.
