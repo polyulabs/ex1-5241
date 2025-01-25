@@ -4,7 +4,7 @@ Visit the page below and follow instructions to create your own Github Page.
 [instructions](https://polyurichard.github.io/lectures/Labs/Github-Page.html)
 
 ## Task 2: Collaborative Editing in Github
-In this task, we will learn how to collaborately edit a file in Github. 
+In this task, you should collaborately edit a file in Github with your classmates.
 
 You should first fork this repository to your own account. Then, edit the file `students.md` and add your name and introduction below the template. Finally, create a pull request to submit your work for review. The detailed instruction is provided below.
 
